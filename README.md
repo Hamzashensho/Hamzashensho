@@ -42,13 +42,12 @@
 <hr>
 
 ## ⚡️ Stats
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Hamzashensho&theme=transparent&count_private=true&locale=en)
 
 <br>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hamzashensho&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Hamza's GitHub Stats" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzashensho&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hamza's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzashensho&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hamza's Most Used Languages" />
 </div>
 
