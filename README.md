@@ -13,6 +13,47 @@
 👨‍💻 IT Engineer | 🎯 Focused on BLoC & Clean Architecture | 🤖 AI & Data Analytics Learner  
 🚀 Let’s build smarter apps — blending sleek UI with powerful logic!
 
+- 🌱 I’m currently improving my skills in **AI**, focusing on **Machine Learning** and **Deep Learning**
+
+- 💬 Ask me about **Flutter, BLoC, Clean Architecture, or AI concepts**
+
+<br>
+
+<div align="center">
+  <a href="mailto:hamzashensho@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-shansho-85151b210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</div>
+
+<hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,python,cpp,css" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,figma,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+
+<hr>
+
+
 
 
 
